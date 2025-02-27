@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Localization Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Localization
+  m_TableCollectionNameGuidString: 414b5069f5674db45834c61defcaed86
+  m_Entries:
+  - m_Id: 89413681152
+    m_Key: Put
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368301342720
+    m_Key: Threw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 902823444480
+    m_Key: TooHigh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1192192671744
+    m_Key: Disappeared
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266498961408
+    m_Key: Fall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1547932565504
+    m_Key: PickUp
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2914471129663406080
+  references:
+    version: 2
+    RefIds:
+    - rid: 2914471129663406080
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1740914286837
